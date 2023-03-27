@@ -14,3 +14,5 @@ for i in range(1, 27):
 
 print(white_balls)
 print(red_balls)
+
+
